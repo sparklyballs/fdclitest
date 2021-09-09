@@ -17,6 +17,7 @@ RUN \
 		python3-dev \
 		python3-pip \
 		python3-venv \
+		sqlite3 \
 # cleanup
 	&& rm -rf \
 		/tmp/* \
